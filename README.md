@@ -1,6 +1,6 @@
 # ELEC391_self_balancing_robot
 ## Authors
-J.Chen&nbsp;  contact: chenjaiyi2022@126.com 
+J.Chen&nbsp;  contact: chenjiayi2022@126.com 
 
 H.Chen  contact: huiyuw2@163.com
 
